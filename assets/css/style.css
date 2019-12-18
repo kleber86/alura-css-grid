@@ -15,7 +15,6 @@
     grid-area: cabecalho;
 }
 .conteudo{
-    background: lightgreen;
     grid-area: conteudo;
 }
 .rodape{
