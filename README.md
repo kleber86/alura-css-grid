@@ -4,3 +4,5 @@
 - [ ] Estilizando a seção de populares
 - [ ] Estilizando o cabeçalho, menu e rodapé
 - [ ] Deixando o site responsivo
+
+**Curso suspenso - requer conhecimentos em flexbox**
